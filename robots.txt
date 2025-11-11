@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nhialwal120-collab.github.io/dak-dey-tut-archive/sitemap.xml
